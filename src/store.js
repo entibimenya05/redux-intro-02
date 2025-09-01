@@ -43,4 +43,3 @@ store.dispatch({
 });
 console.log(store.getState());
 store.dispatch({ type: "acount/payLoan" });
-console.log(store.getState());
